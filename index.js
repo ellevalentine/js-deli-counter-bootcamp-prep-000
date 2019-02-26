@@ -67,5 +67,7 @@ var line = [];
 //This functoin is going to follow the same format as the above function: whileloop followed by an if statement then an else statement.
 //again `i` is set to equal 0. Since the first index of an array is 0. 
 // the while loop conditon follows same as statement above.
-// within the loop body of the while statment we use the `.push` feature to add the line number next to the coresponding name. and repeat.
-// next we have our if statement 
+// within the loop body of the while statment we use the `.push` feature to add the line number next to the coresponding name to the "var line". and repeat. which would give us something like : 1. Ada, 2. Grace
+// next we have our if statement which again follows the conditon: is the katzDeli length ewual to 0. and if this is true it will print the "if" statement:"The line is currently empty".
+// if the conditon is false then the function will print the "else" statment:`The line is currently:` + line. 
+// which following from out example would give: `The line is currently:`
