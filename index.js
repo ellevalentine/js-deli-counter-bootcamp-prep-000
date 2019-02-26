@@ -37,7 +37,9 @@ function nowServing(katzDeli) {
 // In the loop body we simply have "i++" this is the increment operator. 
 // so once the "while loop" stops since the lenth of katzDeli is equal to 0 which means the condition is no longer true. the function will move on to the "if statement". 
 //An if statement follows similar format to an "while loop".  "if (condition) {statement we want to be returned}". 
-// so our condition for our `if` statement is: is the length of katzDeli equal to 0 
+// so our condition for our `if` statement is: is the length of katzDeli equal to 0. ( we use the triple equal sign to check equalities).
+// an if statement is always printed if the condition shows to be true. if it nots true then nothing will be printed unless an if statement is followed  by an "else" statement. 
+// here we have an `if` statement followed by an else statment.
 
 
 
