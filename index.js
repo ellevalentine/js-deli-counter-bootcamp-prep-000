@@ -36,6 +36,7 @@ function nowServing(katzDeli) {
 // and if the line is empty then we want the functoin to print the sting: "The line is currently empty"
 // In the loop body we simply have "i++" this is the increment operator. 
 // so once the "while loop" stops since the lenth of katzDeli is equal to 0 which means the condition is no longer true. the function will move on to the "if statement". 
+//
 
 
 
