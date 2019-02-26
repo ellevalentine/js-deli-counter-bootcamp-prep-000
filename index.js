@@ -32,8 +32,9 @@ function nowServing(katzDeli) {
 // we will use a "while loop" to do this rather than a for loop since we are not sure how many times we want this loop to be executed. Since this is dependent on how many customers the deli get that day. 
 // A while loop follows the format: " while ([condition]) { [loopBody]; } " 
 // first we introduce "i" and set it to value "0" since that is where the index of the array starts.
-// This means that the conditoin of the while loop implie: "i" must always be less than the lenth of the katzDeli line. since if the line is not greater than 1 then its equal to 0 (hence the line is empty). the while loop will contunue 
+// This means that the conditoin of the while loop implie: "i" must always be less than the lenth of the katzDeli line. since if the line is not greater than 1 then its equal to 0 (hence the line is empty). the while loop will continue untill the katzDeli lenth is no longer greater than 0 and hench when the line is empty. 
 // and if the line is empty then we want the functoin to print the sting: "The line is currently empty"
+// so once the "while loop" 
 
 
 
