@@ -34,7 +34,7 @@ function nowServing(katzDeli) {
 // first we introduce "i" and set it to value "0" since that is where the index of the array starts.
 // This means that the conditoin of the while loop implie: "i" must always be less than the lenth of the katzDeli line. since if the line is not greater than 1 then its equal to 0 (hence the line is empty). the while loop will continue untill the katzDeli lenth is no longer greater than 0 and hench when the line is empty. 
 // and if the line is empty then we want the functoin to print the sting: "The line is currently empty"
-// so once the "while loop" 
+// so once the "while loop" stops since the lenth of katzDeli is equal to 0 which means the condition is no longer true. the function will move on to the "if statement". 
 
 
 
