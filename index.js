@@ -47,7 +47,6 @@ function nowServing(katzDeli) {
 
 
 
-
 var line = [];
 
  function currentLine(katzDeli) {
@@ -61,3 +60,4 @@ var line = [];
   } else
   return(`The line is currently:` + line);
 }
+
