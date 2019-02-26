@@ -40,6 +40,10 @@ function nowServing(katzDeli) {
 // so our condition for our `if` statement is: is the length of katzDeli equal to 0. ( we use the triple equal sign to check equalities).
 // an if statement is always printed if the condition shows to be true. if it nots true then nothing will be printed unless an if statement is followed  by an "else" statement. 
 // here we have an `if` statement followed by an else statment.
+// so if the lenth of the katzDeli is 0 we get the statment "There is nobody waiting to be served!"
+// if the lenth of katzDeli is greater than 0 then we get the else statement printed: `Currently serving ${katzDeli.shift()}.`
+// here we use the ".shift" feature to remove the first name from the list and print it in our else statement. 
+// for example if "ella" was the first name in our line. the name will be removed from the line and the function will print: `Currently serving ella.`
 
 
 
