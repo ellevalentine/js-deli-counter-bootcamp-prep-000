@@ -61,3 +61,7 @@ var line = [];
   return(`The line is currently:` + line);
 }
 
+// now we want to create a functon to show us the current line. 
+// this line will be "variable line" which is currently an empty array.
+//now we create the functoin "currentLine" witht the pararmeter of "katzDeli".
+//This functoin is going to follow the same format as the above function: whileloop followed by an if statement then an else statement.
