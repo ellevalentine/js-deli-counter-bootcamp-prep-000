@@ -31,7 +31,8 @@ function nowServing(katzDeli) {
 var line = [];
 
 // now to create a function called "nowServing".this function shal take the array "katzDeli" and return the first person in line. since that person is now being served. It should then remove that name from the list/array. 
-
+// we will use a "while loop" to do this rather than a for loop since we are not sure how many times we want this loop to be executed. Since this is dependent on how many customers the deli get that day. 
+// 
 
 
 
