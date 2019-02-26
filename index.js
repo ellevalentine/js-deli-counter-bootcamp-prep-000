@@ -30,7 +30,8 @@ function nowServing(katzDeli) {
 
 var line = [];
 
-// now to create a function called "nowServing".
+// now to create a function called "nowServing".this function shal take the array "katzDeli" and return the first person in line. since that person is now being served. It should then remove that name from the list/array. 
+
 
 
 
