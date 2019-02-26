@@ -70,4 +70,4 @@ var line = [];
 // within the loop body of the while statment we use the `.push` feature to add the line number next to the coresponding name to the "var line". and repeat. which would give us something like : 1. Ada, 2. Grace
 // next we have our if statement which again follows the conditon: is the katzDeli length ewual to 0. and if this is true it will print the "if" statement:"The line is currently empty".
 // if the conditon is false then the function will print the "else" statment:`The line is currently:` + line. 
-// which following from out example would give: `The line is currently:`
+// which following from out example would give: `The line is currently:1. Ada, 2. Grace`
