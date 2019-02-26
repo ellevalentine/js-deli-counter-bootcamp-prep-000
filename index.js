@@ -67,4 +67,5 @@ var line = [];
 //This functoin is going to follow the same format as the above function: whileloop followed by an if statement then an else statement.
 //again `i` is set to equal 0. Since the first index of an array is 0. 
 // the while loop conditon follows same as statement above.
-// within the loop body of the while statment we use the `.push` feature to add the line number next to the coresponding name. 
+// within the loop body of the while statment we use the `.push` feature to add the line number next to the coresponding name. and repeat.
+// next we have our if statement 
